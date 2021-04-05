@@ -9,7 +9,7 @@ Machine learning algorithm source code.
 1. KNN
 2. Logistic Regression
 3. Gaussian Discriminat Analysis
-4. Navie Bayes
+4. Naive Bayes
 5. Decision Tree
 6. SVM
 7. Linear Regression
