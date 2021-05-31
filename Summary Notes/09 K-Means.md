@@ -247,7 +247,13 @@ if __name__ == '__main__':
     print(centroids) # From sci-kit learn
 ```
 
+![k-means_result2](D:\Github\ML-Algorithm-Source-Code\Summary Notes\images\k-means_result2.PNG)
 
+聚类中心移动过程
+
+![k-means_result](D:\Github\ML-Algorithm-Source-Code\Summary Notes\images\k-means_result.PNG)
+
+聚类结果
 
 ---
 # 3. K-Means sklearn实现
