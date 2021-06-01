@@ -10,18 +10,21 @@
 
 ---
 
-1. KNN
-2. Logistic Regression
-3. Gaussian Discriminat Analysis
-4. Naive Bayes
-5. Decision Tree
+1. - [x] KNN 
+2. - [x] Logistic Regression
+3. - [x] Gaussian Discriminat Analysis
+4. - [x] Naive Bayes
+5. - [x] Decision Tree
 6. CART
 7. SVM
 8. Linear Regression
-9. K-Means
+9. - [x] K-Means
 10. Bagging
 11. Random Forest
 12. AdaBoost
-13. LDA
-14. PCA
+13. PCA
+14. LDA
 15. BPNN
+16. MLP
+17. FCM
+18. SOFM
