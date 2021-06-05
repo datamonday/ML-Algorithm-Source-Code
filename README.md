@@ -68,10 +68,17 @@
     - [ ] Isolation Forest
     - [ ] One-Class SVM
 
+# Compute Intelligence
+
+1. - [ ] GA (Genetic Algorithm)
+2. - [ ] PSO (Particle Swarm Optimization)
+3. - [ ] ACO (Ant Clony Optimization)
+4. - [ ] SA (Simulated Annealing)
+5. - [ ] NeuroEvolution
+
 # Deep Learning
 
 1. Activation Functions
-
    - [ ] Sigmoid
    - [ ] Tanh
    - [ ] Softmax
@@ -93,7 +100,9 @@
    - [ ] MAPE
 
 3. Optimizers
+   - [ ] GD (Gradient Descent)
    - [ ] SGD (Stochastic Gradient Descent)
+   - [ ] Mini-GD
    - [ ] NAG (Nesterov Accelerated Gradient)
    - [ ] SGD + Momentum
    - [ ] AdaGrad
@@ -101,8 +110,8 @@
    - [ ] RMSProp
    - [ ] Adam
    - [ ] AdaMax
-   - [ ] Nadam
-
+   - [ ] Nadam (Adam + NAG)
+   
 4. Layers
    - [ ] Dense
    - [ ] Flatten
@@ -126,17 +135,62 @@
 1. Q-Learning
 2. Sara-Learning
 
-
-
 # Utils
 
 1. Kernels
    - [ ] Linear Kernel
    - [ ] Polynomial Kernel
    - [ ] RBF Kernel
+   
 2. Data Operation
+
+   - [ ] shuffle data
+   - [ ] batch iterator
+   - [ ] divide on features
+   - [ ] polynomial features
+   - [ ] get random subsets
+   - [ ] normalize
+   - [ ] standardize
+   - [ ] train test split
+   - [ ] k fold cross validation sets
+   - [ ] bootstrap sample
+   - [ ] to categorical
+   - [ ] to nominal
+   - [ ] make diagonal
+
 3. Data Manipulation
-4. PlotFunctions
+
+   - [ ] calculate_entropy
+   - [ ] mean_squared_error
+   - [ ] calculate_std_dev
+   - [ ] calculate_variance
+   - [ ] accuracy_score
+   - [ ] recall_score
+   - [ ] precision_score
+   - [ ] f1_score
+   - [ ] calculate_covariance_matrix
+   - [ ] calculate_correlation_matrix
+
+4. Feature Selection
+
+   - [ ] Filter
+   - [ ] wrapper
+   - [ ] statistical
+
+5. Fine-Tune Hyperparameters
+
+   - [ ] Grid Search
+   - [ ] Random Search
+   - [ ] Bayesian Optimization
+   - [ ] Hyperband
+
+6. PlotFunctions
+
+   - [ ] loss curve
+   - [ ] residual loss curve
+   - [ ] acc curve
+   - [ ] roc
+   - [ ] p-r curve
 
    
 ---
