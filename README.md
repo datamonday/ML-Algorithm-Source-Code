@@ -142,7 +142,11 @@
    - [ ] Polynomial Kernel
    - [ ] RBF Kernel
    
-2. Data Operation
+2. Data Pipeline
+
+3. Online Flow Data Process
+
+4. Data Manipulation
 
    - [ ] shuffle data
    - [ ] batch iterator
@@ -158,7 +162,7 @@
    - [ ] to nominal
    - [ ] make diagonal
 
-3. Data Manipulation
+5. Evaluation Metrics
 
    - [ ] calculate_entropy
    - [ ] mean_squared_error
@@ -171,20 +175,20 @@
    - [ ] calculate_covariance_matrix
    - [ ] calculate_correlation_matrix
 
-4. Feature Selection
+6. Feature Selection
 
    - [ ] Filter
    - [ ] wrapper
    - [ ] statistical
 
-5. Fine-Tune Hyperparameters
+7. Fine-Tune Hyperparameters
 
    - [ ] Grid Search
    - [ ] Random Search
    - [ ] Bayesian Optimization
    - [ ] Hyperband
 
-6. PlotFunctions
+8. PlotFunctions
 
    - [ ] loss curve
    - [ ] residual loss curve
