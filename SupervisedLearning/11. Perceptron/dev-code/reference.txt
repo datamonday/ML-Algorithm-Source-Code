@@ -1,1 +1,3 @@
 https://www.cnblogs.com/Finley/p/5946000.html
+
+https://www.kaggle.com/vitorgamalemos/multilayer-perceptron-from-scratch

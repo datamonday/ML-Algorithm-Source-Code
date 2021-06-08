@@ -146,9 +146,11 @@
 
 3. Online Flow Data Process
 
-4. Data Manipulation
+4. Data Operation
 
    - [ ] shuffle data
+   - [ ] normalize
+   - [ ] standardize
    - [ ] batch iterator
    - [ ] divide on features
    - [ ] polynomial features
